@@ -1,0 +1,9 @@
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.deps.json
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.AssemblyInfoInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.AssemblyInfo.cs
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.csproj.CoreCompileInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.csprojAssemblyReference.cache

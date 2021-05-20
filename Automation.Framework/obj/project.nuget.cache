@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPLO/Rg8e/0AtADYnUX7sEvfrRQqiwNfIwZvodJRHTW+4E8YkV+nc9DtjFSrHw3+nKe5uR5tevhV6I4+lSNkng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Framework\\Automation.Framework.Ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DorIngber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DorIngber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

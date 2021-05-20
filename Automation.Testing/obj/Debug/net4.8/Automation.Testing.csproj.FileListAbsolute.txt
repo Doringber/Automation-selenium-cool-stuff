@@ -1,0 +1,56 @@
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Testing.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Testing.pdb
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.AssemblyInfoInputs.cache
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.AssemblyInfo.cs
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csproj.CopyComplete
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.pdb
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\AngleSharp.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.Win32.Registry.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\ICSharpCode.SharpZipLib.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Security.AccessControl.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Security.Principal.Windows.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Text.Encoding.CodePages.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriverManager.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriver.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Extensions.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Newtonsoft.Json.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriver.Support.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csproj.CoreCompileInputs.cache
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csprojAssemblyReference.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\CoverletSourceRootsMapping
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Testing.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Testing.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\AngleSharp.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.Win32.Registry.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Newtonsoft.Json.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriver.Support.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriver.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\ICSharpCode.SharpZipLib.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Security.AccessControl.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Security.Principal.Windows.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\System.Text.Encoding.CodePages.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\WebDriverManager.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Extensions.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\bin\Debug\net4.8\Automation.Extensions.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csprojAssemblyReference.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.AssemblyInfoInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.AssemblyInfo.cs
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csproj.CoreCompileInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.csproj.CopyComplete
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Testing\obj\Debug\net4.8\Automation.Testing.pdb

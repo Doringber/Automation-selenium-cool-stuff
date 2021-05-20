@@ -1,0 +1,8 @@
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.deps.json
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.AssemblyInfoInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.AssemblyInfo.cs
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.csproj.CoreCompileInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.pdb

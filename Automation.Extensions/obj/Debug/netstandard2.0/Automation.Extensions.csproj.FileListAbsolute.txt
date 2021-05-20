@@ -1,0 +1,18 @@
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.deps.json
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfoInputs.cache
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfo.cs
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.pdb
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.dll
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.pdb
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\dori\Documents\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.csprojAssemblyReference.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.deps.json
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\bin\Debug\netstandard2.0\Automation.Extensions.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfoInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.AssemblyInfo.cs
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.dll
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.pdb
+C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Extensions\obj\Debug\netstandard2.0\Automation.Extensions.csprojAssemblyReference.cache
