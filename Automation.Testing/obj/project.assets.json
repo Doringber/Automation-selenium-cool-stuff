@@ -956,11 +956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Testing\\Automation.Testing.csproj",
+      "projectUniqueName": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Testing\\Automation.Testing.csproj",
       "projectName": "Automation.Testing",
-      "projectPath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Testing\\Automation.Testing.csproj",
+      "projectPath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Testing\\Automation.Testing.csproj",
       "packagesPath": "C:\\Users\\DorIngber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Testing\\obj\\",
+      "outputPath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Testing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DorIngber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -971,14 +971,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pango.co.il/nuget/nuget": {}
       },
       "frameworks": {
         "net48": {
           "targetAlias": "net4.8",
           "projectReferences": {
-            "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Extensions\\Automation.Extensions.csproj": {
-              "projectPath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Extensions\\Automation.Extensions.csproj"
+            "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Extensions\\Automation.Extensions.csproj": {
+              "projectPath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Extensions\\Automation.Extensions.csproj"
             }
           }
         }
@@ -1032,7 +1033,7 @@
             "version": "[3.0.3, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -245,7 +245,19 @@ namespace Automation.Testing
         [TestMethod]
         public void WebDriverFactorySimpleChromeSumbitFormRemoteFireFox()
         {
-            var _webDriver = new WebDriverFactory(new DriverParams { Driver = "FIREFOX", Binaries = @"http://172.19.0.6:5555", Source = "REMOTE" }).Get();
+            var _webDriver = new WebDriverFactory(new DriverParams { Driver = "FIREFOX", Binaries = @"http://localhost:4444/wd/hub", Source = "REMOTE" }).Get();
+
+            _webDriver.GoToUrl("https://gravitymvctestapplication.azurewebsites.net/Student");
+            _webDriver.GetElement(By.XPath("//input[@id='SearchString']")).SendKeys("Alexander");
+            _webDriver.SumbitFrom(0);
+
+            _webDriver.Dispose();
+        }
+
+        [TestMethod]
+        public void WebDriverFactorySimpleChromeSumbitFormRemoteEdge()
+        {
+            var _webDriver = new WebDriverFactory(new DriverParams { Driver = "EDGE", Binaries = @"http://localhost:4444/wd/hub", Source = "REMOTE" }).Get();
 
             _webDriver.GoToUrl("https://gravitymvctestapplication.azurewebsites.net/Student");
             _webDriver.GetElement(By.XPath("//input[@id='SearchString']")).SendKeys("Alexander");

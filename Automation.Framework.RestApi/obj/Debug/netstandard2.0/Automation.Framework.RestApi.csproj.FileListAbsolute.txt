@@ -7,3 +7,12 @@ C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\Automa
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.dll
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.pdb
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.csprojAssemblyReference.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.deps.json
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\bin\Debug\netstandard2.0\Automation.Framework.RestApi.pdb
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.csprojAssemblyReference.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.AssemblyInfoInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.AssemblyInfo.cs
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.csproj.CoreCompileInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework.RestApi\obj\Debug\netstandard2.0\Automation.Framework.RestApi.pdb

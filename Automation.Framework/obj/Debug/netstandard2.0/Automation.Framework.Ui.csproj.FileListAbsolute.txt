@@ -6,3 +6,12 @@ C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\Automa
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.csproj.CoreCompileInputs.cache
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.dll
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.pdb
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\bin\Debug\netstandard2.0\Automation.Framework.Ui.deps.json
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\bin\Debug\netstandard2.0\Automation.Framework.Ui.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\bin\Debug\netstandard2.0\Automation.Framework.Ui.pdb
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.csprojAssemblyReference.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.AssemblyInfoInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.AssemblyInfo.cs
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.csproj.CoreCompileInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Framework\obj\Debug\netstandard2.0\Automation.Framework.Ui.pdb

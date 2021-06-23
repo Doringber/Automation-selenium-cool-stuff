@@ -6,3 +6,12 @@ C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\Automa
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.csproj.CoreCompileInputs.cache
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.dll
 C:\Users\DorIngber\OneDrive - pango\שחזור\שחזזור2\VsDorProject\AutomationRoot\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.pdb
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.deps.json
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\bin\Debug\netstandard2.0\Automation.Core.pdb
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.csprojAssemblyReference.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.AssemblyInfoInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.AssemblyInfo.cs
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.csproj.CoreCompileInputs.cache
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.dll
+C:\WorkingFolder\DorProjects\CAutomation\Automation.Core\obj\Debug\netstandard2.0\Automation.Core.pdb

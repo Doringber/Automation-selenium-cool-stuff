@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Framework\\Automation.Framework.Ui.csproj",
+      "projectUniqueName": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Framework\\Automation.Framework.Ui.csproj",
       "projectName": "Automation.Framework.Ui",
-      "projectPath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Framework\\Automation.Framework.Ui.csproj",
+      "projectPath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Framework\\Automation.Framework.Ui.csproj",
       "packagesPath": "C:\\Users\\DorIngber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Framework\\obj\\",
+      "outputPath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DorIngber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,7 +200,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pango.co.il/nuget/nuget": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -235,7 +236,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

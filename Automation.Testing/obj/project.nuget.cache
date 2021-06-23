@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4Yt5Sl4s6Rqz9i1CZgBr5O7IhiBZiK6cUI5NeEfg3gPerdviLfytu1OFdEnNEtu1NPrRT9GoC+St/PPKWOzMw==",
+  "dgSpecHash": "nMtR6KJHhHn4eEzZwRI96HuDNfC2rkocQ9tlerL/kGCxuKrIVh9Hn+/a8S/26RR2tv5fRAxaFsJelRgM6unXHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Testing\\Automation.Testing.csproj",
+  "projectFilePath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Testing\\Automation.Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DorIngber\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\DorIngber\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",

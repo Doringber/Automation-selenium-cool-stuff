@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nuhejRXtxjLuZd73yYjpK1b9jmwT5RVmEzfU/dtpqU1wvEyGz+dTs8f7m8OBZQIQyP3wZmYDVsZVN56HkpNuXA==",
+  "dgSpecHash": "4u8JMadSG1+KVGL6ElDyKct0+QnTCYNIN3kzy897exlSXI3nPAPjJhEhSelYkkPhkLdSPKxE2Rirclc9uSOkaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DorIngber\\OneDrive - pango\\שחזור\\שחזזור2\\VsDorProject\\AutomationRoot\\Automation.Extensions\\Automation.Extensions.csproj",
+  "projectFilePath": "C:\\WorkingFolder\\DorProjects\\CAutomation\\Automation.Extensions\\Automation.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DorIngber\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\DorIngber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
